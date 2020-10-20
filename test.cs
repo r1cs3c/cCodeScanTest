@@ -21,7 +21,7 @@ int main(void)
         printf ("\n Correct Password \n");
         pass = 1;
     }
-
+    //add comment2
     if(pass)
     {
        /* Now Give root or admin rights to user*/
