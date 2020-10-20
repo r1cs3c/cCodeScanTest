@@ -10,6 +10,7 @@ int main(void)
     int pass = 0;
 
     printf("\n Enter the password : \n");
+    //vulnerable?
     gets(buff);
 
     if(strcmp(buff, "thegeekstuff"))
