@@ -1,5 +1,6 @@
 /*Code scan check, buffer overflow vulnerable application.
 */
+//add comment
 #include <stdio.h>
 #include <string.h>
 
